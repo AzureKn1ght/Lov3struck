@@ -28,8 +28,7 @@ const Services8 = () => {
               </div>
 
               <p>
-                Make personalized digital assets that truly matter to you. Don't
-                fuss about the technology, we'll take care of that.
+                {"Make personalized digital assets that truly matter to you. Don't fuss about the technology, we'll take care of that."}
               </p>
             </div>
           </div>
@@ -45,8 +44,7 @@ const Services8 = () => {
               </div>
               
               <p>
-                New to crypto? Don't know how NFTs work? Not to worry, we got
-                your back! Pay using whatever you're used to.
+                {"New to crypto? Don't know how NFTs work? Not to worry, we got  your back! Pay using whatever you're used to."}
               </p>
             </div>
           </div>
