@@ -8,13 +8,12 @@ const Intro6 = () => {
           <div className="col-lg-6 valign">
             <div className="caption">
               <h1 className="mb-20">
-                Build Lasting Memories on the Blockchain
+                Let’s Build Amazing Mobile Apps Together
               </h1>
               <p>
-                Welcome to Lov3struck. The best web3 service to help you 
-                commemorate and celebrate your most precious memories and 
-                moments and keep them forever immortalized on the blockchain. 
-                Try it out today!
+                Sit amet consectetur adipiscing elit, sed do eiusmod tempor
+                idunte ut labore et dolore magna aliqua. Quis ipsum suspendisse
+                ultrices gravida. Risus commodo viverra maecenas accumsan
               </p>
               <div className="butons mt-40">
                 <a href="#0" className="butn-gr rounded buton">
@@ -28,7 +27,7 @@ const Intro6 = () => {
                     </svg>
                   </i>
                 </a>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
                 <a href="#0" className="butn-bord-dark rounded buton">
                   <span>Google Play</span>
                   <i className="icon">

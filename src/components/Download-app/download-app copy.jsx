@@ -17,10 +17,9 @@ const DownloadApp = () => {
                   <div className="cont">
                     <div className="s-head">
                       <h6 className="stit mb-30">
-                        <span className="left"></span> Download Our App{" "}
+                        <span className="left"></span> Downlaod Apps{" "}
                       </h6>
-                      <h2>Get our Free NFT Viewer App Available Now!
-                        </h2>
+                      <h2>We’re Available on Store Download your Apps</h2>
                     </div>
                     <div className="butons mt-40">
                       <a href="#0" className="butn-bg-light rounded buton">
@@ -34,7 +33,7 @@ const DownloadApp = () => {
                           </svg>
                         </i>
                       </a>
-                      <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
                       <a href="#0" className="butn-bord-light rounded buton">
                         <span>Google Play</span>
                         <i className="icon">

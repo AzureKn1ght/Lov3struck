@@ -8,10 +8,10 @@ const PricePackages = ({ bgGray }) => {
           <div className="col-lg-8 col-md-10">
             <div className="s-head text-center mb-80">
               <h6 className="stit mb-30">
-                <span className="left"></span> Pricing Packages
+                <span className="left"></span> Pricing Package
                 <span className="right"></span>
               </h6>
-              <h2>Flexible Prices that Work for You</h2>
+              <h2>Popular Pricing Package for Design Mobile Application </h2>
             </div>
           </div>
         </div>
@@ -22,16 +22,16 @@ const PricePackages = ({ bgGray }) => {
                 <div className="col-md-6">
                   <div className="item sm-mb50">
                     <div className="type text-center mb-15">
-                      <h5>Individual Minting</h5>
+                      <h5>Free Package</h5>
                     </div>
                     <div className="amount text-center mb-40">
                       <h3>
-                        <span>$</span> 29
+                        <span>$</span> 0
                       </h3>
                     </div>
                     <div className="order mb-40">
                       <a href="#0" className="butn-gray rounded buton">
-                        <span>Try it out!</span>
+                        <span>Get Free 7 Days Trial</span>
                       </a>
                     </div>
                     <div className="feat">
@@ -57,7 +57,7 @@ const PricePackages = ({ bgGray }) => {
                               <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                             </svg>
                           </i>
-                          View &amp; Display NFT Collections
+                          Clean Code &amp; Easy Editable
                         </li>
 
                         <li>
@@ -69,7 +69,7 @@ const PricePackages = ({ bgGray }) => {
                               <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                             </svg>
                           </i>
-                          Gasless Minting of NFT
+                          Modern UI Design
                         </li>
 
                         <li className="disbl">
@@ -81,7 +81,7 @@ const PricePackages = ({ bgGray }) => {
                               <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                             </svg>
                           </i>
-                          Mint up to 5 per month
+                          350 GB Hosting Free
                         </li>
 
                         <li className="disbl">
@@ -105,7 +105,7 @@ const PricePackages = ({ bgGray }) => {
                               <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                             </svg>
                           </i>
-                          Premium Members Club
+                          Upload Modern Design
                         </li>
                       </ul>
                     </div>
@@ -114,7 +114,7 @@ const PricePackages = ({ bgGray }) => {
                 <div className="col-md-6">
                   <div className="item active">
                     <div className="type text-center mb-15">
-                      <h5>Premium Subscription</h5>
+                      <h5>Premium Package</h5>
                     </div>
                     <div className="amount text-center mb-40">
                       <h3>
@@ -123,7 +123,7 @@ const PricePackages = ({ bgGray }) => {
                     </div>
                     <div className="order mb-40">
                       <a href="#0" className="butn-gr rounded buton">
-                        <span>Start Now!</span>
+                        <span>Choose Package</span>
                       </a>
                     </div>
                     <div className="feat">
@@ -149,7 +149,7 @@ const PricePackages = ({ bgGray }) => {
                               <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                             </svg>
                           </i>
-                          View &amp; Display NFT Collections
+                          Clean Code &amp; Easy Editable
                         </li>
 
                         <li>
@@ -161,7 +161,7 @@ const PricePackages = ({ bgGray }) => {
                               <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                             </svg>
                           </i>
-                          Gasless Minting of NFT
+                          Modern UI Design
                         </li>
 
                         <li>
@@ -173,7 +173,7 @@ const PricePackages = ({ bgGray }) => {
                               <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                             </svg>
                           </i>
-                          Mint up to 5 per month
+                          350 GB Hosting Free
                         </li>
 
                         <li>
@@ -197,7 +197,7 @@ const PricePackages = ({ bgGray }) => {
                               <path d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z" />
                             </svg>
                           </i>
-                          Premium Members Club
+                          Upload Modern Design
                         </li>
                       </ul>
                     </div>

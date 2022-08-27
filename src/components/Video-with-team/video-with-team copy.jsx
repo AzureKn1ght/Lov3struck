@@ -17,10 +17,7 @@ const VideoWithTeam = () => {
           <div className="col-12">
             <div
               className="vid-img bg-img"
-              style={{
-                backgroundImage:
-                  "url(https://images.unsplash.com/photo-1644329968124-4c68f17c21e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8)",
-              }}
+              style={{backgroundImage: 'url(/img/mobile-app/bg-vid.jpg)'}}
               data-overlay-dark="2"
             >
               {typeof window !== "undefined" && (
@@ -55,7 +52,7 @@ const VideoWithTeam = () => {
                 <span className="left"></span> Meet Our Team
                 <span className="right"></span>
               </h6>
-              <h2>Our Experienced Team Members</h2>
+              <h2>We’ve Experience Team Member to Provide Solutions</h2>
             </div>
           </div>
         </div>
@@ -64,13 +61,10 @@ const VideoWithTeam = () => {
           <div className="col-lg-3 col-md-6">
             <div className="item text-center md-mb50">
               <div className="img">
-                <img
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d"
-                  alt=""
-                />
+                <img src="/img/mobile-app/team/1.png" alt="" />
               </div>
               <div className="info">
-                <h5>John Doe</h5>
+                <h5>Eddie E. Moseley</h5>
                 <p>CEO &amp; Founder</p>
               </div>
             </div>
@@ -78,27 +72,21 @@ const VideoWithTeam = () => {
           <div className="col-lg-3 col-md-6">
             <div className="item text-center md-mb50">
               <div className="img">
-                <img
-                  src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e"
-                  alt=""
-                />
+                <img src="/img/mobile-app/team/2.png" alt="" />
               </div>
               <div className="info">
-                <h5>John Doe</h5>
-                <p>App Designer</p>
+                <h5>John J. Schreffler</h5>
+                <p>Apps Designer</p>
               </div>
             </div>
           </div>
           <div className="col-lg-3 col-md-6">
             <div className="item text-center sm-mb50">
               <div className="img">
-                <img
-                  src="https://images.unsplash.com/photo-1494790108377-be9c29b29330"
-                  alt=""
-                />
+                <img src="/img/mobile-app/team/3.png" alt="" />
               </div>
               <div className="info">
-                <h5>Jane Doe</h5>
+                <h5>Venessa M. Meister</h5>
                 <p>Web Developer</p>
               </div>
             </div>
@@ -106,14 +94,11 @@ const VideoWithTeam = () => {
           <div className="col-lg-3 col-md-6">
             <div className="item text-center">
               <div className="img">
-                <img
-                  src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80"
-                  alt=""
-                />
+                <img src="/img/mobile-app/team/4.png" alt="" />
               </div>
               <div className="info">
-                <h5>Jane Doe</h5>
-                <p>Marketing Manager</p>
+                <h5>Joel R. Funkhouser</h5>
+                <p>Senior Manager</p>
               </div>
             </div>
           </div>

@@ -8,11 +8,20 @@ const Clients3 = () => {
           <div className="row justify-content-center">
             <div className="col-lg-6 col-md-9">
               <div className="text">
-                <h2 className="color-font">
-                  <b>Our Partners</b>
+                <h2>
+                  We’ve
+                  <span>
+                    154+
+                    <img
+                      src="/img/mobile-app/shapes/border.png"
+                      alt=""
+                      className="bord-gr"
+                    />
+                  </span>
+                  Global Partners
                 </h2>
                 <span className="mt-10">
-                  Trusted partnerships and the technologies we use
+                  Professional Design Agency to provide solutions
                 </span>
               </div>
             </div>

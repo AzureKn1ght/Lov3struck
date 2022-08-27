@@ -8,13 +8,11 @@ const Footer2 = () => {
           <div className="col-lg-4 col-md-6">
             <div className="item-clumn our md-mb50">
               <a href="#0" className="logo-brand mb-50">
-                <span className="color-font">
-                  <h1>Lov3struck</h1>
-                </span>
+                <img src="/img/logo-gr.png" alt="" />
               </a>
               <p>
-                Lov3struck is a premier web3 service that commemorates and
-                celebrates your most precious memories on the blockchain.
+                Sed ut perspiciatis undmnis iste natus error sit voluptatem
+                accusantium dolore udantiuy totam rem aperiam.
               </p>
             </div>
           </div>
@@ -24,19 +22,19 @@ const Footer2 = () => {
               <ul>
                 <li>
                   <span className="icon pe-7s-angle-right"></span>
-                  <a href="#0">Whitepaper</a>
+                  <a href="#0">Our Products</a>
                 </li>
                 <li>
                   <span className="icon pe-7s-angle-right"></span>
-                  <a href="#0">Our Services</a>
+                  <a href="#0">Blogs & Guides</a>
                 </li>
                 <li>
                   <span className="icon pe-7s-angle-right"></span>
-                  <a href="#0">Blog & Guides</a>
+                  <a href="#0">Premium Support</a>
                 </li>
                 <li>
                   <span className="icon pe-7s-angle-right"></span>
-                  <a href="#0">Career Openings</a>
+                  <a href="#0">Need a Career ?</a>
                 </li>
               </ul>
             </div>
@@ -55,7 +53,7 @@ const Footer2 = () => {
                 </li>
                 <li>
                   <span className="icon pe-7s-angle-right"></span>
-                  <a href="#0">Settings</a>
+                  <a href="#0">Setting</a>
                 </li>
                 <li>
                   <span className="icon pe-7s-angle-right"></span>
@@ -96,7 +94,7 @@ const Footer2 = () => {
           <div className="row">
             <div className="col-12">
               <div className="text-center">
-                <p>© 2022 Lov3struck. All Rights Reserved</p>
+                <p>© 2022 Vie. All Rights Reserved</p>
               </div>
             </div>
           </div>

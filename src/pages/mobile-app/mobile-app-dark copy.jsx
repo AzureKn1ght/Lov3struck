@@ -53,6 +53,7 @@ const MobileAppDark = () => {
         <PricePackages />
         <Testimonials />
         <DownloadApp />
+        <Blogs2 />
         <Footer2 />
       </DarkTheme>
     </>

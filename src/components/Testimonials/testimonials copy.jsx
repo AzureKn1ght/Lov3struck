@@ -19,10 +19,10 @@ const Testimonials = () => {
           <div className="col-lg-7 col-md-10">
             <div className="s-head text-center mb-80">
               <h6 className="stit mb-30">
-                <span className="left"></span> Testimonials
+                <span className="left"></span> Clients Feedback
                 <span className="right"></span>
               </h6>
-              <h2>What Users Say About Us</h2>
+              <h2>Valuable Clinets Feedback About Our Services</h2>
             </div>
           </div>
         </div>
@@ -73,14 +73,11 @@ const Testimonials = () => {
                       </div>
                       <div className="info">
                         <div className="img">
-                          <img
-                            src="https://images.unsplash.com/photo-1499887142886-791eca5918cd"
-                            alt=""
-                          />
+                          <img src="/img/mobile-app/clients/1.png" alt="" />
                         </div>
                         <div className="cont">
                           <h6 className="mb-10">William Glenn</h6>
-                          <span>Premium Member</span>
+                          <span>Senior Manager</span>
                         </div>
                       </div>
                     </div>
@@ -100,14 +97,11 @@ const Testimonials = () => {
                       </div>
                       <div className="info">
                         <div className="img">
-                          <img
-                            src="https://images.unsplash.com/photo-1499887142886-791eca5918cd"
-                            alt=""
-                          />
+                          <img src="/img/mobile-app/clients/2.png" alt="" />
                         </div>
                         <div className="cont">
                           <h6 className="mb-10">John R. Gordon</h6>
-                          <span>Premium Member</span>
+                          <span>Senior Manager</span>
                         </div>
                       </div>
                     </div>
@@ -127,14 +121,11 @@ const Testimonials = () => {
                       </div>
                       <div className="info">
                         <div className="img">
-                          <img
-                            src="https://images.unsplash.com/photo-1499887142886-791eca5918cd"
-                            alt=""
-                          />
+                          <img src="/img/mobile-app/clients/3.png" alt="" />
                         </div>
                         <div className="cont">
                           <h6 className="mb-10">Josesr B. Rink</h6>
-                          <span>Premium Member</span>
+                          <span>Senior Manager</span>
                         </div>
                       </div>
                     </div>
@@ -154,14 +145,11 @@ const Testimonials = () => {
                       </div>
                       <div className="info">
                         <div className="img">
-                          <img
-                            src="https://images.unsplash.com/photo-1499887142886-791eca5918cd"
-                            alt=""
-                          />
+                          <img src="/img/mobile-app/clients/1.png" alt="" />
                         </div>
                         <div className="cont">
                           <h6 className="mb-10">William Glenn</h6>
-                          <span>Premium Member</span>
+                          <span>Senior Manager</span>
                         </div>
                       </div>
                     </div>

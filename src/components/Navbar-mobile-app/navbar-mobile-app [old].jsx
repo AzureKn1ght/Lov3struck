@@ -16,7 +16,7 @@ const NavbarMobileApp = ({ lr, nr, theme }) => {
         <Link href="/">
           <a className="logo">
             <span className="color-font">
-              <h3>Lov3struck</h3>
+              <b>Lov3struck</b>
             </span>
             {/*theme ? (
               theme === "themeL" ? (
@@ -97,22 +97,27 @@ const NavbarMobileApp = ({ lr, nr, theme }) => {
               </div>
             </li>
             <li className="nav-item">
-              <Link href="#">
+              <Link href="/mobile-app/services-dark">
                 <a className="nav-link">Services</a>
               </Link>
             </li>
             <li className="nav-item">
-              <Link href="#">
+              <Link href="/mobile-app/pricing-plan-dark">
                 <a className="nav-link">Pricing</a>
               </Link>
             </li>
             <li className="nav-item">
-              <Link href="#">
-                <a className="nav-link">Collections</a>
+              <Link href="/mobile-app/portfolio-dark">
+                <a className="nav-link">Portfolio</a>
               </Link>
             </li>
             <li className="nav-item">
-              <Link href="#">
+              <Link href="/mobile-app/shop-dark">
+                <a className="nav-link">Products</a>
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link href="/contact/contact-dark">
                 <a className="nav-link">Contact</a>
               </Link>
             </li>

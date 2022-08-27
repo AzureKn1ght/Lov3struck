@@ -19,10 +19,10 @@ const Screenshots = () => {
           <div className="col-lg-7 col-md-10">
             <div className="s-head text-center mb-80">
               <h6 className="stit mb-30">
-                <span className="left"></span> NFT Screenshots
+                <span className="left"></span> Apps Screenshot
                 <span className="right"></span>
               </h6>
-              <h2>Amazing Designs by our Users</h2>
+              <h2>Amazing Designer Create Our Application Let’s See</h2>
             </div>
           </div>
         </div>
